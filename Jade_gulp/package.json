@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-frontnote": "^1.0.2",
+    "gulp-plumber": "^1.0.1",
+    "gulp-uglify": "^1.4.1"
   }
 }
